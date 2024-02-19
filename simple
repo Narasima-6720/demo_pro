@@ -1,0 +1,43 @@
+#commands for git hub push files
+
+step-1
+
+git init -->Initialize the repository
+
+step-2
+
+create the file by using the
+
+touch filname
+
+vi filename
+
+step-3
+
+git add filename
+
+step-4
+
+git commit -m "first commit"
+
+
+step-5
+
+git branch -M main
+
+step-6
+
+git remote add origin repositorypath
+
+step-7
+
+git push -u origin main
+
+step-8
+
+enter the username
+
+enter the password
+
+
+successfully pushed
